@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktutor_jolly=self.webpackChunktutor_jolly||[]).push([[2196],{12196:function(t,s,e){t.exports=e.p+"static/images/dse_cup_2.f6567304.png"}}]);

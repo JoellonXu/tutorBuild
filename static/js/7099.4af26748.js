@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktutor_jolly=self.webpackChunktutor_jolly||[]).push([[7099],{87099:function(t,e,s){t.exports=s.p+"static/images/writing_cup1.aa18a1eb.png"}}]);
